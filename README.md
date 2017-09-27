@@ -3,3 +3,5 @@ this is a copy of https://github.com/aspnet/Docs/tree/master/aspnetcore/fundamen
 to run the sample run these commands in terminal:
 dotnet restore
 dotnet run
+
+open browser at localhost:5000
